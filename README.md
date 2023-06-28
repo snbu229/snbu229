@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech 3rd year student studying AI and ML at SRM University<br>Passionate about exploring the potential of AI and ML in solving real-world problems<br>Avid coder with experience in several programming languages including Python, C++, and Java<br>Interested in data analysis, computer vision, and natural language processing<br>Diligent worker, capable of working independently or in a team to deliver efficient solutions<br>Constantly seeking to learn and improve skills in the field of AI and ML
+B.Tech 3rd year student studying AI and ML at SRM University<br>Passionate about exploring the potential of AI and ML in solving real-world problems<br>Avid coder with experience in several programming languages including Python, C++, and Java<br>Interested in data analysis, computer vision, and natural language processing<br>Diligent worker, capable of working independently or in a team to deliver efficient solutions<br>Constantly seeking to learn and improve skills in the field of AI and ML.
 
 
 ## 🌐 Socials:
